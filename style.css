@@ -9,10 +9,10 @@ html{
     scroll-behavior: smooth;
 }
 
-.navbar{
+.home{
     height:100vh;
     width:100%;
-    background-image: url('img/background.png');
+    background-image: url('img/background.jpg');
     background-size: cover;
     background-position: center;
 }
